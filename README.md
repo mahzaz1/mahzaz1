@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter Firebase**
 
-- 💬 Ask me about **Flutter API's, Flutter Firebase,Dart,HTML,CSS,BootStrap,JavaScript**
+- 💬 Ask me about **Flutter API's, Flutter Firebase, Dart, HTML, CSS, BootStrap, JavaScript, Wordpress**
 
 - 📫 How to reach me **malikahzaz301@gmail.com**
 
