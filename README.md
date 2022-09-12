@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **https://www.facebook.com/ahzaz.naseer**
 
+- 📫 How to reach me **https://api.whatsapp.com/send?phone=923409086301**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ezaz-naseer-a71237243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezaz-naseer-a71237243" height="30" width="40" /></a>
