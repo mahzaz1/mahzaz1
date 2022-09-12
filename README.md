@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ezaz Naseer</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -14,6 +14,8 @@
 - 💬 Ask me about **Flutter API's, Flutter Firebase,Dart,HTML,CSS,BootStrap,JavaScript**
 
 - 📫 How to reach me **malikahzaz301@gmail.com**
+
+- 📫 How to reach me **https://www.facebook.com/ahzaz.naseer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
