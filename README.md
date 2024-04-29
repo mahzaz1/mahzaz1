@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Restful APIs**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React Redux**
 
 - 💬 Ask me about **React API's, Firebase, React, HTML, CSS, BootStrap, JavaScript**
 
