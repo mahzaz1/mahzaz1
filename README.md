@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Redux**
 
-- 💬 Ask me about **React API's, Firebase, React, HTML, CSS, BootStrap, JavaScript**
+- 💬 Ask me about **RestFful API's, Redux, Firebase, React, HTML, CSS, BootStrap, JavaScript**
 
 - 📫 How to reach me **malikahzaz301@gmail.com**
 
