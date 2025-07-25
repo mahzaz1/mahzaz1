@@ -1,23 +1,21 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ezaz Naseer</h1>
-<h3 align="center">A passionate React Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahzaz1&label=Profile%20views&color=0e75b6&style=flat" alt="mahzaz1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I've experience on **React Js**
+- 🔭 I've experience on **React/Next Js**
 
-- 🔭 I’m currently working on **Restful APIs**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Firebase**
-
-- 💬 Ask me about **RestFful API's, Redux, Firebase, React, HTML, CSS, BootStrap, JavaScript**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React.js, Next.js, Node.js, Express.js, MongoDb, Tailwind, RESTful APIs**
 
 - 📫 How to reach me **malikahzaz301@gmail.com**
 
-- 📫 How to reach me **https://www.facebook.com/ahzaz.naseer**
+- 📫 How to reach me **https://www.linkedin.com/in/ezaz-naseer-a71237243/**
 
 - 📫 How to reach me **https://api.whatsapp.com/send?phone=923409086301**
 
